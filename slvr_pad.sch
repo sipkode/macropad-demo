@@ -19,7 +19,7 @@ U 1 1 5F010F49
 P 2650 3250
 F 0 "U1" H 2650 1361 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 2650 1270 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2650 3250 50  0001 C CIN
+F 2 "Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm" H 2650 3250 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2650 3250 50  0001 C CNN
 	1    2650 3250
 	1    0    0    -1  
